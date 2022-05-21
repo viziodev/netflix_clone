@@ -1,0 +1,9 @@
+https://www.themoviedb.org/?language=fr-FR
+login:douvewane
+password:douvewane
+//cle => d0c94612323d062ddb29dda3ee387e31
+//lien => https://api.themoviedb.org/3/movie/550?api_key=d0c94612323d062ddb29dda3ee387e31
+//json viewer => chrome 
+//baseURL => https://api.themoviedb.org/3/
+// Extension Dart Data Class Generator
+
